@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rvAnimals" type="id" />
+    <item name="tvAnimalName" type="id" />
+    <item name="image_description" type="id" />
+    <item name="recycler_view" type="id" />
+    <item name="image" type="id" />
+    <item name="resep_nama" type="id" />
+</resources>
